@@ -20,4 +20,6 @@ count = insertion_sort(random_items)
 print(random_items)
 print(count)
 
+print("test")
+
 
